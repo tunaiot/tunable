@@ -1,8 +1,8 @@
 /*
- * Project: Wand.h
- * Description: Libreria de wand version 0.1 con hardware v1
+ * Project: tunable
+ * Description: Libreria de tunable version 0.1 con hardware v1
  * Author: Arturo Gasca
- * Date:  Junio-2017
+ * Date:  Febrero-2018
  * Copyright: Tuna Shields
  */
 #ifndef TunaBle_h
