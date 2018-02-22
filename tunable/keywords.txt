@@ -1,0 +1,19 @@
+TunaBle	KEYWORD1
+getMode	KEYWORD2
+setMode	KEYWORD3
+relay	KEYWORD4
+relayStatus	KEYWORD5
+setPass	KEYWORD6
+checkPass	KEYWORD7
+factory	KEYWORD8
+button	KEYWORD9
+waitConnection	KEYWORD10
+disconnect	KEYWORD11
+getCurrent	KEYWORD12
+saveCurrent	KEYWORD13
+loadStoredCurrent	KEYWORD14
+calibration	KEYWORD15
+setOwner	KEYWORD16
+
+
+
